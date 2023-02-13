@@ -1,2 +1,2 @@
 # statics
-Stillio static web files
+Stillio.com static web files
